@@ -1,0 +1,1 @@
+Puzzle 2 should be incorrect as there is a value in some lines which is a whitespace but somehow is counted as 0. That is not specified in the instructions
